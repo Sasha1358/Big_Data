@@ -1,0 +1,5 @@
+transaction_id,user_id,amount,status,date
+tr101,1,2150.00,completed,2024-01-10
+tr102,4,890.00,completed,2024-02-22
+tr103,5,-50.00,completed,2024-03-05
+tr104,2,120.75,completed,2024-04-18
